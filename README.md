@@ -12,3 +12,5 @@ https://megparlmer.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Meggie Parlmer.
+
+### ©️2019 Run Buddy, Inc 
