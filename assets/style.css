@@ -238,6 +238,20 @@ section {
     content: "";
 }
 
+.selection-title {
+    font-size: 48px;
+    color: var(--secondary-color);
+    border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
+}
+
+.primary-border {
+    border-color: var(--primary-color);
+}
+
 .section-title {
     font-size: 48px;
     color: var(--secondary-color);
